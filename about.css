@@ -1,0 +1,34 @@
+.btn {
+  display: inline-block;
+  padding: 5px 25px;
+  text-align: center;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 20px;
+  background-color: #2d0166;
+  border: none;
+}
+
+html {
+  height: 100vh;
+  background-image: url("images/cover.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+body h1 {
+  color: #1f0541;
+  text-align: center;
+  margin-top: 5%;
+  font-size: 3rem;
+}
+body p {
+  color: #2d0166;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.container {
+  text-align: center;
+}/*# sourceMappingURL=about.css.map */
